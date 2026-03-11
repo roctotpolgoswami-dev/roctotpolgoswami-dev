@@ -1,5 +1,4 @@
 <div align="center">
-
 ```
 ██████╗  ██████╗  ██████╗████████╗ ██████╗ ████████╗██████╗  ██████╗ ██╗
 ██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝██╔═══██╗╚══██╔══╝██╔══██╗██╔═══██╗██║
@@ -20,7 +19,6 @@
 ---
 
 ## `$ whoami`
-
 ```bash
 ❯ cat about.json
 {
@@ -48,7 +46,6 @@
 ---
 
 ## `$ cat focus.txt`
-
 ```
 ▸ [ACTIVE]  🧠  Mastering Data Structures & Algorithms
 ▸ [ACTIVE]  🛠️  Building projects that solve real problems
@@ -93,7 +90,6 @@
 ---
 
 <div align="center">
-
 ```
 ╔═══════════════════════════════════════╗
 ║   "Code. Learn. Build. Repeat."       ║

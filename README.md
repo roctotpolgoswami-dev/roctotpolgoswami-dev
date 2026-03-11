@@ -1,12 +1,5 @@
 <div align="center">
-```
-██████╗  ██████╗  ██████╗████████╗ ██████╗ ████████╗██████╗  ██████╗ ██╗
-██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝██╔═══██╗╚══██╔══╝██╔══██╗██╔═══██╗██║
-██████╔╝██║   ██║██║        ██║   ██║   ██║   ██║   ██████╔╝██║   ██║██║
-██╔══██╗██║   ██║██║        ██║   ██║   ██║   ██║   ██╔═══╝ ██║   ██║██║
-██║  ██║╚██████╔╝╚██████╗   ██║   ╚██████╔╝   ██║   ██║     ╚██████╔╝███████╗
-╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝    ╚═════╝    ╚═╝   ╚═╝      ╚═════╝ ╚══════╝
-```
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=80&lines=B.Tech+CSE+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+code%2C+one+commit+at+a+time." alt="Typing SVG" />
 

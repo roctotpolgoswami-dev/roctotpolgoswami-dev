@@ -50,7 +50,7 @@
 
 
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&border=00ff88&ring=00ff88&fire=ff006e&currStreakLabel=00e5ff&hide_border=false&border_radius=10&background=0d1117" />
+
 
 </div>
 

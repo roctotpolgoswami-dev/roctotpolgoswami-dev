@@ -46,16 +46,9 @@
 ▸ [QUEUE]   🚀  Open Source contributions
 ```
 
----
 
-## `$ git log --stats`
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&border_color=00ff88&border_radius=10&title_color=00ff88&icon_color=00e5ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&border_color=00ff88&border_radius=10&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&border=00ff88&ring=00ff88&fire=ff006e&currStreakLabel=00e5ff&hide_border=false&border_radius=10&background=0d1117" />
 
@@ -79,16 +72,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
 
 </div>
-
----
-
-<div align="center">
-```
-╔═══════════════════════════════════════╗
-║   "Code. Learn. Build. Repeat."       ║
-║                  — Roctotpol's OS     ║
-╚═══════════════════════════════════════╝
-```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 

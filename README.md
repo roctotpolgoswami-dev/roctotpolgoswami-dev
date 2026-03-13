@@ -20,7 +20,7 @@
   "location"  : "Guwahati, Assam 🇮🇳",
   "interests" : ["Software Dev", "DSA", "Web Engineering", "Open Source"],
   "currently" : "Learning, Building, and Shipping",
-  "mantra"    : "Code. Learn. Build. Repeat."
+  "mantra"    : "Code. Learn. Build. Repeat!"
 }
 ```
 
